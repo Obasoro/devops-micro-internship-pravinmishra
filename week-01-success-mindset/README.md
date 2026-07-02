@@ -33,7 +33,9 @@ You will reuse this in later weeks. So do it properly once.
 
 ## Answer
 
-Add your answer here...
+A lot theories fail in the first century of their declaration but because of gatekeeping of knowledge we tend to preserve such because of what they have contributed to human discipline and advancement. 
+
+These affected "theories" are taught are lower level say, primary to impress them of the genius of the proponent only to discover 15 years or much less that that theory no longer holds water and obselete.
 
 ---
 
@@ -55,11 +57,11 @@ Write each truth in this format:
 
 ### Truth
 
-Add your answer here...
+The concept of life and universe is beyond what the whole single mind can capture
 
 ### Evidence from my life
 
-Add your answer here...
+Traveling as a field geoscientist and seeing the hidden gem hidden from man and how much we go to get it. It take a whole scientific discovery to unearth such. So much more to discovered and so, this prove the limitation of man to grasp the concept of life and universe as a single entity.
 
 ---
 
@@ -67,11 +69,11 @@ Add your answer here...
 
 ### Truth
 
-Add your answer here...
+The world does not end at my foot step but begins
 
 ### Evidence from my life
 
-Add your answer here...
+Meeting people with brighter mind and clear cut direction, is a prove that I am limited and the world is filled with knowledge and knowledgable individual. My limitation is someone excelling power and my excellence is someone least
 
 ---
 
@@ -79,11 +81,13 @@ Add your answer here...
 
 ### Truth
 
-Add your answer here...
+You are only allowed to look down on a man once, that is when you are helping him
 
 ### Evidence from my life
 
-Add your answer here...
+People who are below us in status but never leave them in that status but be that guide and assistance for them to launch into another phase of their life better than 
+
+
 
 ---
 
@@ -135,11 +139,11 @@ Include this line:
 
 ## Your Article
 
-Add your answer here...
+Building The Future: The Little Steps to Greater Height
 
 ### Public Link
 
-Paste your link here:
+Paste your link here: https://medium.com/@obasorokunle/building-the-future-the-little-steps-to-greater-height-34eb5c7c4ecf
 
 `__________________________`
 
@@ -182,7 +186,7 @@ Add your answer here...
 ### Rules
 
 * Mention **Title + Author**
-* Any language allowed
+* English
 * No fiction novels
 
 ### Tip
@@ -199,16 +203,16 @@ Choose books that improve:
 
 ## Book List
 
-1. Add your answer here...
-2. Add your answer here...
-3. Add your answer here...
-4. Add your answer here...
-5. Add your answer here...
-6. Add your answer here...
-7. Add your answer here...
-8. Add your answer here...
-9. Add your answer here...
-10. Add your answer here...
+1. The 5am club
+2. The Psychology of Money
+3. The Lean Startup
+4. Learning Github Actions
+5. The Blue Ocean Strategy
+6. Think Faster and Talk Smarter
+7. The Art of Speaking Well
+8. The mind of a Leader
+9. How to Lead when you are not in charge
+10. Bible
 
 ---
 
@@ -237,16 +241,16 @@ List topics only. No need to share numbers.
 
 ## My Metrics
 
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
+* How many hours commited to reading
+* Sleep 6 hrs a day 4hr at Night and 2hr during the da
+* Read 1 chapter of technical book a day
+* Walk 10000 steep daily
+* Read 1 chapter non technical daily
+* Spend an hour with my kids daily
+* write a line of code daily
+* Call or chat an old friend daily
+* Make a Linkedin Post daily
+* Read a technical blog daily
 
 ---
 
@@ -270,9 +274,9 @@ Examples:
 
 **Yes / No**
 
-Answer:
+Answer: Yes
 
-Add your answer here...
+
 
 ---
 
@@ -290,7 +294,7 @@ Example:
 
 #### My Weekly Routine
 
-Add your answer here...
+After each drop off from school, I resume to my desk at home to carryout job or home related task
 
 ---
 
@@ -298,11 +302,11 @@ Add your answer here...
 
 #### When Will You Do DMI Work? (Days + Time)
 
-Add your answer here...
+Day when the house is quieter also in the night
 
 #### How Many Sessions Per Week?
 
-Add your answer here...
+5 session depending on the task at hand
 
 ---
 
@@ -316,7 +320,7 @@ Examples:
 
 #### My Distraction Rules
 
-Add your answer here...
+Reduce phone screen time
 
 ---
 
@@ -324,15 +328,15 @@ Add your answer here...
 
 ### Biggest insight I got about myself this week
 
-Add your answer here...
+I spend less time doing what does lead me in achieving the goals
 
 ### My biggest weakness/loop I noticed
 
-Add your answer here...
+I don't have an accountability partner
 
 ### One system I will implement from this week (exact habit + time)
 
-Add your answer here...
+Cut off time on twitter by 20%
 
 ### LinkedIn Post
 
