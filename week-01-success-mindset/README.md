@@ -328,7 +328,7 @@ Reduce phone screen time
 
 ### Biggest insight I got about myself this week
 
-I spend less time doing what does lead me in achieving the goals
+I spend less time doing what does not lead me in achieving the goals
 
 ### My biggest weakness/loop I noticed
 
@@ -342,14 +342,14 @@ Cut off time on twitter by 20%
 
 Paste your LinkedIn post link here:
 
-`__________________________`
+`https://www.linkedin.com/posts/olakunleobasoro_dmi-dmicohort3-devops-activity-7477598890016346112-cxTj?utm_source=share&utm_medium=member_desktop&rcm=ACoAABJp-z8BWxSilwa0aYicOVVzFmjwFjP4oPM`
 
 ---
 
 ## 10. Proof of Work
 
-- LinkedIn Post URL: **ADD LINK HERE**  
-- Blog / Medium : **ADD LINK HERE**  
+- LinkedIn Post URL: ****  
+- Blog / Medium : **https://medium.com/@obasorokunle/building-the-future-the-little-steps-to-greater-height-34eb5c7c4ecf**  
 
 ---
 
