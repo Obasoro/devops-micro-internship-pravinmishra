@@ -20,19 +20,21 @@ Demonstrate understanding of AWS basics and Free Tier usage by answering the fol
 
 #### Question 1 — What is an AWS account, and why do you need it at this stage?
 
-Write your answer here.
+AWS is a cloud computing platform that provides a wide range of services to help businesses and individuals build and run applications in the cloud. An AWS account is required to access and use these services. Some of their services include compute, storage, databases, networking, and security.
 
 ---
 
 #### Question 2 — What is AWS Free Tier, and how long does it last?
 
-Write your answer here.
+A free tier account is a type of AWS account that provides free access to certain AWS services for a limited time period. The free tier account is available to new AWS customers and provides free access to certain AWS services for a limited time period. The free tier account is available for a period of 12 months from the date of account creation. The recent update by AWS is you are given 100 dollar and after which another 100 dollar is given making 200 dollar in total.
 
 ---
 
 #### Question 3 — Name three AWS Free Tier services and their free usage limits.
 
-Write your answer here.
+EC2 - 750 hours per month
+S3 - 5GB of storage
+Lambda - 1 million requests per month
 
 ---
 
@@ -56,7 +58,7 @@ Confirm that your AWS account setup is complete by navigating to the Account sec
 
 #### Screenshot 1 — AWS Account page showing account name (email may be blurred)
 
-Add your screenshot here.
+week-03-linux-for-devops\screenshots\assignment-week-1\Screenshot-1.png
 
 ---
 
