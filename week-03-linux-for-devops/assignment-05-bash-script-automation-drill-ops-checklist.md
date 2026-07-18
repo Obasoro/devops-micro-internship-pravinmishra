@@ -472,13 +472,13 @@ The final script combines all these elements by using variables to store user in
 
 Paste your LinkedIn post URL here:
 
-`__________________________`
+`https://www.linkedin.com/posts/olakunleobasoro_devops-linux-bashscripting-ugcPost-7484217984589283328-D41X/?highlightedUpdateUrn=urn%3Ali%3Aactivity%3A7484217985625227264&highlightedUpdateType=SOCIAL_SHARE&origin=SOCIAL_SHARE&utm_source=share&utm_medium=member_desktop&rcm=ACoAABJp-z8BWxSilwa0aYicOVVzFmjwFjP4oPM`
 
 ---
 
 #### Screenshot — Published LinkedIn post
 
-Add your screenshot here.
+week-03-linux-for-devops\screenshots\assignment-5-week-3\Screenshot 2026-07-18 131121.png
 
 ---
 
