@@ -145,7 +145,7 @@ Building The Future: The Little Steps to Greater Height
 
 Paste your link here: https://medium.com/@obasorokunle/building-the-future-the-little-steps-to-greater-height-34eb5c7c4ecf
 
-`__________________________`
+`https://medium.com/@obasorokunle/building-the-future-the-little-steps-to-greater-height-34eb5c7c4ecf`
 
 ---
 
@@ -204,15 +204,25 @@ Choose books that improve:
 ## Book List
 
 1. The 5am club
+week-01-success-mindset\screenshots\image-1.png
 2. The Psychology of Money
+week-01-success-mindset\screenshots\image-2.png
 3. The Lean Startup
+week-01-success-mindset\screenshots\image-3.png
 4. Learning Github Actions
+week-01-success-mindset\screenshots\image-4.png
 5. The Blue Ocean Strategy
+week-01-success-mindset\screenshots\image-5.png
 6. Think Faster and Talk Smarter
+week-01-success-mindset\screenshots\image-6.png
 7. The Art of Speaking Well
+week-01-success-mindset\screenshots\image-7.png
 8. The mind of a Leader
+week-01-success-mindset\screenshots\image-8.png
 9. How to Lead when you are not in charge
+week-01-success-mindset\screenshots\image-9.png
 10. Bible
+week-01-success-mindset\screenshots\image-10.png
 
 ---
 
@@ -348,7 +358,8 @@ Paste your LinkedIn post link here:
 
 ## 10. Proof of Work
 
-- LinkedIn Post URL: ****  
+- LinkedIn Post URL:  https://www.linkedin.com/posts/olakunleobasoro_dmi-dmicohort3-devops-activity-7477598890016346112-cxTj?utm_source=share&utm_medium=member_desktop&rcm=ACoAABJp-z8BWxSilwa0aYicOVVzFmjwFjP4oPM
+
 - Blog / Medium : **https://medium.com/@obasorokunle/building-the-future-the-little-steps-to-greater-height-34eb5c7c4ecf**  
 
 ---
