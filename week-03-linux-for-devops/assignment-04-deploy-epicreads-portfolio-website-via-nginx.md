@@ -22,6 +22,8 @@ Verify the Ubuntu VM and Nginx are ready for deployment.
 
 
 
+
+
 ---
 
 # Task 1 — Get the Website Source Code
@@ -34,7 +36,7 @@ Download and extract the portfolio website template.
 
 #### Screenshot 1 — Output of `ls -la` showing the extracted project folder
 
-![Screenshot](week-03-linux-for-devops\screenshots\assignment-4-week-3\Screenshot 2026-07-18 162029.png)
+![Screenshot](week-03-linux-for-devops/screenshots/assignment-4-week-3/Screenshot 2026-07-18 162029.png)
 
 ---
 
@@ -48,9 +50,9 @@ Update the website footer with your deployment details.
 
 #### Screenshot 2 — Nano editor open with the updated footer showing your Full Name, Group, Week, and Date
 
-![Screenshot](week-03-linux-for-devops\screenshots\assignment-4-week-3\Screenshot 2026-07-18 162952.png)
+![Screenshot](week-03-linux-for-devops/screenshots/assignment-4-week-3/Screenshot 2026-07-18 162952.png)
 
-![Screenshot](week-03-linux-for-devops\screenshots\assignment-4-week-3\Screenshot 2026-07-18 163212.png)
+![Screenshot](week-03-linux-for-devops/screenshots/assignment-4-week-3/Screenshot 2026-07-18 163212.png)
 
 ---
 
@@ -64,13 +66,13 @@ Deploy the portfolio website to the Nginx web root.
 
 #### Screenshot 3 — Output of `sudo nginx -t` showing configuration test successful
 
-![Screenshot](week-03-linux-for-devops\screenshots\assignment-4-week-3\Screenshot 2026-07-18 165428.png)
+![Screenshot](week-03-linux-for-devops/screenshots/assignment-4-week-3/Screenshot 2026-07-18 165428.png)
 
 ---
 
 #### Screenshot 4 — Output of `ls /var/www/html` showing deployed website files
 
-![Screenshot](week-03-linux-for-devops\screenshots\assignment-4-week-3\Screenshot 2026-07-18 164048.png)
+![Screenshot](week-03-linux-for-devops/screenshots/assignment-4-week-3/Screenshot 2026-07-18 164048.png)
 
 ---
 
@@ -84,13 +86,13 @@ Verify the deployed website is publicly accessible and the footer contains your 
 
 #### Screenshot 5 — Output of `curl ifconfig.me` showing the server's public IP address
 
-![Screenshot](week-03-linux-for-devops\screenshots\assignment-2-week-3\Screenshot-11.png)
+![Screenshot](week-03-linux-for-devops/screenshots/assignment-2-week-3/Screenshot-11.png)
 
 ---
 
 #### Screenshot 6 — Browser showing the live website with your Full Name and deployment details in the footer
 
-![Screenshot](week-03-linux-for-devops\screenshots\assignment-4-week-3\Screenshot 2026-07-18 165318.png)
+![Screenshot](week-03-linux-for-devops/screenshots/assignment-4-week-3/Screenshot 2026-07-18 165318.png)
 
 ---
 
@@ -103,13 +105,13 @@ Verify the deployed website and Nginx service are healthy.
 ### Evidence
 
 #### Screenshot 7 — Output of `systemctl is-enabled nginx`
-![Screenshot](week-03-linux-for-devops\screenshots\assignment-4-week-3\Screenshot 2026-07-18 165428.png)
+![Screenshot](week-03-linux-for-devops/screenshots/assignment-4-week-3/Screenshot 2026-07-18 165428.png)
 
 ---
 
 #### Screenshot 8 — Output of `curl -I http://localhost` showing 200 OK
 
-![Screenshot](week-03-linux-for-devops\screenshots\assignment-4-week-3\Screenshot 2026-07-18 165438.png)
+![Screenshot](week-03-linux-for-devops/screenshots/assignment-4-week-3/Screenshot 2026-07-18 165438.png)
 
 ---
 

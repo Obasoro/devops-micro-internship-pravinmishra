@@ -204,25 +204,25 @@ Choose books that improve:
 ## Book List
 
 1. The 5am club
-![Screenshot](week-01-success-mindset\screenshots\image-1.png)
+![Screenshot](week-01-success-mindset/screenshots/image-1.png)
 2. The Psychology of Money
-![Screenshot](week-01-success-mindset\screenshots\image-2.png)
+![Screenshot](week-01-success-mindset/screenshots/image-2.png)
 3. The Lean Startup
-![Screenshot](week-01-success-mindset\screenshots\image-3.png)
+![Screenshot](week-01-success-mindset/screenshots/image-3.png)
 4. Learning Github Actions
-![Screenshot](week-01-success-mindset\screenshots\image-4.png)
+![Screenshot](week-01-success-mindset/screenshots/image-4.png)
 5. The Blue Ocean Strategy
-![Screenshot](week-01-success-mindset\screenshots\image-5.png)
+![Screenshot](week-01-success-mindset/screenshots/image-5.png)
 6. Think Faster and Talk Smarter
-![Screenshot](week-01-success-mindset\screenshots\image-6.png)
+![Screenshot](week-01-success-mindset/screenshots/image-6.png)
 7. The Art of Speaking Well
-![Screenshot](week-01-success-mindset\screenshots\image-7.png)
+![Screenshot](week-01-success-mindset/screenshots/image-7.png)
 8. The mind of a Leader
-![Screenshot](week-01-success-mindset\screenshots\image-8.png)
+![Screenshot](week-01-success-mindset/screenshots/image-8.png)
 9. How to Lead when you are not in charge
-![Screenshot](week-01-success-mindset\screenshots\image-9.png)
+![Screenshot](week-01-success-mindset/screenshots/image-9.png)
 10. Bible
-![Screenshot](week-01-success-mindset\screenshots\image-10.png)
+![Screenshot](week-01-success-mindset/screenshots/image-10.png)
 
 ---
 

@@ -20,9 +20,9 @@ Install Node.js and npm on the Ubuntu VM and verify the installation.
 
 #### Screenshot 1 — Output of `node -v && npm -v` showing installed versions
 
-![Screenshot](week-03-linux-for-devops\screenshots\assignment-2-week-3\Screenshot-1.png)
+![Screenshot](week-03-linux-for-devops/screenshots/assignment-2-week-3/Screenshot-1.png)
 
-![Screenshot](week-03-linux-for-devops\screenshots\assignment-2-week-3\Screenshot-2.png)
+![Screenshot](week-03-linux-for-devops/screenshots/assignment-2-week-3/Screenshot-2.png)
 ---
 
 # Task 2 — Setup Environment (Nginx)
@@ -49,7 +49,7 @@ Clone the project repository and verify the project files are present.
 
 #### Screenshot 3 — Output of `ls` inside the `my-react-app` directory showing project files
 
-![Screenshot](week-03-linux-for-devops\screenshots\assignment-2-week-3\Screenshot-3.png)
+![Screenshot](week-03-linux-for-devops/screenshots/assignment-2-week-3/Screenshot-3.png)
 
 ---
 
@@ -63,7 +63,7 @@ Update `App.js` with your full name and the current date.
 
 #### Screenshot 4 — `nano App.js` open showing your full name and date filled in
 
-![Screenshot](week-03-linux-for-devops\screenshots\assignment-2-week-3\Screenshot-4.png)
+![Screenshot](week-03-linux-for-devops/screenshots/assignment-2-week-3/Screenshot-4.png)
 
 ---
 
@@ -125,13 +125,13 @@ Verify the React application is publicly accessible via the server's public IP.
 
 #### Screenshot 9 — Output of `curl ifconfig.me` showing the server's public IP address
 
-![Screenshot](week-03-linux-for-devops\screenshots\assignment-2-week-3\Screenshot-9.png)
+![Screenshot](week-03-linux-for-devops/screenshots/assignment-2-week-3/Screenshot-9.png)
 
 ---
 
 #### Screenshot 10 — Browser showing the deployed React app at `http://<public-ip>` with your name and date visible
 
-![Screenshot](week-03-linux-for-devops\screenshots\assignment-2-week-3\Screenshot-11.png)
+![Screenshot](week-03-linux-for-devops/screenshots/assignment-2-week-3/Screenshot-11.png)
 
 ---
 
