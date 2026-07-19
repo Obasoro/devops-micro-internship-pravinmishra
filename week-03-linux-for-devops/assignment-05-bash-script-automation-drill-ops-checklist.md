@@ -20,13 +20,13 @@ Verify that Bash is available on your system and create a clean workspace for th
 
 #### Screenshot 1 — Output of `echo $SHELL` and `bash --version`
 
-week-03-linux-for-devops\screenshots\assignment-5-week-3\Screenshot 2026-07-18 064713.png
+![Screenshot](week-03-linux-for-devops\screenshots\assignment-5-week-3\Screenshot 2026-07-18 064713.png)
 
 ---
 
 #### Screenshot 2 — Output of `pwd` and `ls -lah` showing the scripts directory
 
-week-03-linux-for-devops\screenshots\assignment-5-week-3\Screenshot 2026-07-18 064812.png
+![Screenshot](week-03-linux-for-devops\screenshots\assignment-5-week-3\Screenshot 2026-07-18 064812.png)
 
 ---
 
@@ -62,19 +62,19 @@ Create your first Bash script, make it executable, and run it from the terminal.
 
 #### Screenshot 1 — Content of `first-script.sh`
 
-week-03-linux-for-devops\screenshots\assignment-5-week-3\Screenshot 2026-07-18 065327.png
+![Screenshot](week-03-linux-for-devops\screenshots\assignment-5-week-3\Screenshot 2026-07-18 065327.png)
 
 ---
 
 #### Screenshot 2 — Output of `./first-script.sh`
 
-week-03-linux-for-devops\screenshots\assignment-5-week-3\Screenshot 2026-07-18 065424.png
+![Screenshot](week-03-linux-for-devops\screenshots\assignment-5-week-3\Screenshot 2026-07-18 065424.png)
 
 ---
 
 #### Screenshot 3 — Output of `ls -l first-script.sh` showing executable permission
 
-week-03-linux-for-devops\screenshots\assignment-5-week-3\Screenshot 2026-07-18 065459.png
+![Screenshot](week-03-linux-for-devops\screenshots\assignment-5-week-3\Screenshot 2026-07-18 065459.png)
 
 ---
 
@@ -110,13 +110,13 @@ Use variables to store and display user-related information.
 
 #### Screenshot 1 — Content of `user-info.sh`
 
-week-03-linux-for-devops\screenshots\assignment-5-week-3\Screenshot 2026-07-18 065942.png
+![Screenshot](week-03-linux-for-devops\screenshots\assignment-5-week-3\Screenshot 2026-07-18 065942.png)
 
 ---
 
 #### Screenshot 2 — Output of `./user-info.sh`
 
-week-03-linux-for-devops\screenshots\assignment-5-week-3\Screenshot 2026-07-18 070028.png
+![Screenshot](week-03-linux-for-devops\screenshots\assignment-5-week-3\Screenshot 2026-07-18 070028.png)
 
 ---
 
@@ -152,13 +152,13 @@ Use arrays and loops to print a checklist of tools used in Bash scripting.
 
 #### Screenshot 1 — Content of `tools-checklist.sh`
 
-week-03-linux-for-devops\screenshots\assignment-5-week-3\Screenshot 2026-07-18 070521.png
+![Screenshot](week-03-linux-for-devops\screenshots\assignment-5-week-3\Screenshot 2026-07-18 070521.png)
 
 ---
 
 #### Screenshot 2 — Output of `./tools-checklist.sh`
 
-week-03-linux-for-devops\screenshots\assignment-5-week-3\Screenshot 2026-07-18 070609.png
+![Screenshot](week-03-linux-for-devops\screenshots\assignment-5-week-3\Screenshot 2026-07-18 070609.png)
 
 ---
 
@@ -200,13 +200,13 @@ Use loops to repeat a task multiple times.
 
 #### Screenshot 1 — Content of `counter.sh`
 
-week-03-linux-for-devops\screenshots\assignment-5-week-3\Screenshot 2026-07-18 071015.png
+![Screenshot](week-03-linux-for-devops\screenshots\assignment-5-week-3\Screenshot 2026-07-18 071015.png)
 
 ---
 
 #### Screenshot 2 — Output of `./counter.sh`
 
-week-03-linux-for-devops\screenshots\assignment-5-week-3\Screenshot 2026-07-18 071059.png
+![Screenshot](week-03-linux-for-devops\screenshots\assignment-5-week-3\Screenshot 2026-07-18 071059.png)
 
 ---
 
@@ -255,19 +255,19 @@ Use file checks and conditionals to verify whether files and directories exist.
 
 #### Screenshot 1 — Output of `ls -lah ../test-folder`
 
-week-03-linux-for-devops\screenshots\assignment-5-week-3\Screenshot 2026-07-18 071738.png
+![Screenshot](week-03-linux-for-devops\screenshots\assignment-5-week-3\Screenshot 2026-07-18 071738.png)
 
 ---
 
 #### Screenshot 2 — Content of `file-check.sh`
 
-week-03-linux-for-devops\screenshots\assignment-5-week-3\Screenshot 2026-07-18 071826.png
+![Screenshot](week-03-linux-for-devops\screenshots\assignment-5-week-3\Screenshot 2026-07-18 071826.png)
 
 ---
 
 #### Screenshot 3 — Output of `./file-check.sh`
 
-week-03-linux-for-devops\screenshots\assignment-5-week-3\Screenshot 2026-07-18 071911.png
+![Screenshot](week-03-linux-for-devops\screenshots\assignment-5-week-3\Screenshot 2026-07-18 071911.png)
 
 ---
 
@@ -344,25 +344,25 @@ Use if-else conditionals to make decisions based on a variable value.
 
 #### Screenshot 1 — Content of `score-check.sh` with `score=85`
 
-week-03-linux-for-devops\screenshots\assignment-5-week-3\Screenshot 2026-07-18 072327.png
+![Screenshot](week-03-linux-for-devops\screenshots\assignment-5-week-3\Screenshot 2026-07-18 072327.png)
 
 ---
 
 #### Screenshot 2 — Output showing `Result: Pass`
 
-week-03-linux-for-devops\screenshots\assignment-5-week-3\Screenshot 2026-07-18 072415.png
+![Screenshot](week-03-linux-for-devops\screenshots\assignment-5-week-3\Screenshot 2026-07-18 072415.png)
 
 ---
 
 #### Screenshot 3 — Content of `score-check.sh` with `score=55`
 
-week-03-linux-for-devops\screenshots\assignment-5-week-3\Screenshot 2026-07-18 072521.png
+![Screenshot](week-03-linux-for-devops\screenshots\assignment-5-week-3\Screenshot 2026-07-18 072521.png)
 
 ---
 
 #### Screenshot 4 — Output showing `Result: Retry`
 
-week-03-linux-for-devops\screenshots\assignment-5-week-3\Screenshot 2026-07-18 072608.png
+![Screenshot](week-03-linux-for-devops\screenshots\assignment-5-week-3\Screenshot 2026-07-18 072608.png)
 
 ---
 
@@ -410,21 +410,21 @@ Create a final Bash script using functions to organize reusable code.
 
 #### Screenshot 1 — Content of `final-automation.sh`
 
-week-03-linux-for-devops\screenshots\assignment-5-week-3\Screenshot 2026-07-18 081017.png
+![Screenshot](week-03-linux-for-devops\screenshots\assignment-5-week-3\Screenshot 2026-07-18 081017.png)
 
-week-03-linux-for-devops\screenshots\assignment-5-week-3\Screenshot 2026-07-18 081033.png
+![Screenshot](week-03-linux-for-devops\screenshots\assignment-5-week-3\Screenshot 2026-07-18 081033.png)
 
 ---
 
 #### Screenshot 2 — Output of `./final-automation.sh`
 
-week-03-linux-for-devops\screenshots\assignment-5-week-3\Screenshot 2026-07-18 081958.png.
+![Screenshot](week-03-linux-for-devops\screenshots\assignment-5-week-3\Screenshot 2026-07-18 081958.png)
 
 ---
 
 #### Screenshot 3 — Output of `ls -lah` showing all created scripts
 
-week-03-linux-for-devops\screenshots\assignment-5-week-3\Screenshot 2026-07-18 082056.png.
+![Screenshot](week-03-linux-for-devops\screenshots\assignment-5-week-3\Screenshot 2026-07-18 082056.png)
 
 ---
 
@@ -478,7 +478,7 @@ Paste your LinkedIn post URL here:
 
 #### Screenshot — Published LinkedIn post
 
-week-03-linux-for-devops\screenshots\assignment-5-week-3\Screenshot 2026-07-18 131121.png
+![Screenshot](week-03-linux-for-devops\screenshots\assignment-5-week-3\Screenshot 2026-07-18 131121.png)
 
 ---
 

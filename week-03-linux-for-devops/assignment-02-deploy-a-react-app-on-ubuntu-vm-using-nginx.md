@@ -20,9 +20,9 @@ Install Node.js and npm on the Ubuntu VM and verify the installation.
 
 #### Screenshot 1 — Output of `node -v && npm -v` showing installed versions
 
-week-03-linux-for-devops\screenshots\assignment-2-week-3\Screenshot-1.png
+![Screenshot](week-03-linux-for-devops\screenshots\assignment-2-week-3\Screenshot-1.png)
 
-week-03-linux-for-devops\screenshots\assignment-2-week-3\Screenshot-2.png
+![Screenshot](week-03-linux-for-devops\screenshots\assignment-2-week-3\Screenshot-2.png)
 ---
 
 # Task 2 — Setup Environment (Nginx)
@@ -35,7 +35,7 @@ Install Nginx, start the service, and confirm it is running.
 
 #### Screenshot 2 — Output of `systemctl status nginx --no-pager` showing Active (running)
 
-week-03-linux-for-devops\screenshots\assignment-2-week-3\Screenshot-2-2.png
+![Screenshot](week-03-linux-for-devops\screenshots\assignment-2-week-3\Screenshot-2-2.png)
 
 ---
 
@@ -49,7 +49,7 @@ Clone the project repository and verify the project files are present.
 
 #### Screenshot 3 — Output of `ls` inside the `my-react-app` directory showing project files
 
-week-03-linux-for-devops\screenshots\assignment-2-week-3\Screenshot-3.png
+![Screenshot](week-03-linux-for-devops\screenshots\assignment-2-week-3\Screenshot-3.png)
 
 ---
 
@@ -63,7 +63,7 @@ Update `App.js` with your full name and the current date.
 
 #### Screenshot 4 — `nano App.js` open showing your full name and date filled in
 
-week-03-linux-for-devops\screenshots\assignment-2-week-3\Screenshot-4.png
+![Screenshot](week-03-linux-for-devops\screenshots\assignment-2-week-3\Screenshot-4.png)
 
 ---
 
@@ -91,7 +91,7 @@ Copy the production build files to the Nginx web root directory.
 
 #### Screenshot 6 — Output of `ls /var/www/html/` showing the deployed build contents
 
-week-03-linux-for-devops\screenshots\assignment-2-week-3\Screenshot-6.png
+![Screenshot](week-03-linux-for-devops\screenshots\assignment-2-week-3\Screenshot-6.png)
 
 ---
 
@@ -105,7 +105,7 @@ Apply Nginx configuration for React routing and confirm the service is active.
 
 #### Screenshot 7 — Output of `systemctl is-active nginx` showing `active`
 
-week-03-linux-for-devops\screenshots\assignment-2-week-3\Screenshot-7.png
+![Screenshot](week-03-linux-for-devops\screenshots\assignment-2-week-3\Screenshot-7.png)
 
 ---
 
@@ -125,13 +125,13 @@ Verify the React application is publicly accessible via the server's public IP.
 
 #### Screenshot 9 — Output of `curl ifconfig.me` showing the server's public IP address
 
-week-03-linux-for-devops\screenshots\assignment-2-week-3\Screenshot-9.png
+![Screenshot](week-03-linux-for-devops\screenshots\assignment-2-week-3\Screenshot-9.png)
 
 ---
 
 #### Screenshot 10 — Browser showing the deployed React app at `http://<public-ip>` with your name and date visible
 
-week-03-linux-for-devops\screenshots\assignment-2-week-3\Screenshot-11.png
+![Screenshot](week-03-linux-for-devops\screenshots\assignment-2-week-3\Screenshot-11.png)
 
 ---
 
@@ -149,7 +149,7 @@ Paste your LinkedIn post URL here:
 
 #### Screenshot — LinkedIn post showing the deployed application
 
-week-03-linux-for-devops\screenshots\assignment-2-week-3\Screenshot-12.png
+![Screenshot](week-03-linux-for-devops\screenshots\assignment-2-week-3\Screenshot-12.png)
 
 ---
 
