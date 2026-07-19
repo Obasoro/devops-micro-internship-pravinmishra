@@ -20,6 +20,7 @@ Verify the Ubuntu VM and Nginx are ready for deployment.
 
 #### Screenshot 0 — Output of `sudo systemctl status nginx --no-pager` showing Active (running)
 
+![Screenshot](week-03-linux-for-devops/screenshots/assignment-2-week-3/Screenshot-2-2.png)
 
 
 
@@ -111,7 +112,7 @@ Verify the deployed website and Nginx service are healthy.
 
 #### Screenshot 8 — Output of `curl -I http://localhost` showing 200 OK
 
-![Screenshot](week-03-linux-for-devops/screenshots/assignment-4-week-3/Screenshot 2026-07-18 165438.png)
+![Screenshots](week-03-linux-for-devops/screenshots/assignment-4-week-3/Screenshot 2026-07-18 165438.png)
 
 ---
 
@@ -123,14 +124,13 @@ Verify the deployed website and Nginx service are healthy.
 
 Paste your LinkedIn post URL here:
 
-`__________________________`
+`https://www.linkedin.com/posts/olakunleobasoro_upholding-the-fundamentals-as-devops-can-share-7484553943411400705-XS5P/?highlightedUpdateUrn=urn%3Ali%3Ashare%3A7484553943411400705&highlightedUpdateType=SOCIAL_SHARE&origin=SOCIAL_SHARE&utm_source=share&utm_medium=member_desktop&rcm=ACoAABJp-z8BWxSilwa0aYicOVVzFmjwFjP4oPM`
 
 ---
 
 #### Screenshot — Published LinkedIn post showing the live website with your Full Name in the footer
 
-Add your screenshot here.
-
+![Screenshot](week-03-linux-for-devops/screenshots/assignment-4-week-3/Screenshot 2026-07-19 112901.png)
 ---
 
 # Submission Instructions
@@ -144,18 +144,18 @@ Add your screenshot here.
 
 # Completion Checklist
 
-- [ ] Screenshot 0: Nginx service status (active/running)
-- [ ] Screenshot 1: Website files downloaded and extracted
-- [ ] Screenshot 2: Footer updated with Full Name, Group, Week, and Date
-- [ ] Screenshot 3: Nginx configuration test successful
-- [ ] Screenshot 4: Website files deployed to /var/www/html
-- [ ] Screenshot 5: Public IP retrieved
-- [ ] Screenshot 6: Live website accessible in browser with footer details
-- [ ] Screenshot 7: Nginx enabled on boot
-- [ ] Screenshot 8: Local HTTP response returns 200 OK
-- [ ] LinkedIn post published and URL submitted
-- [ ] Full Name visible in all required screenshots
-- [ ] No sensitive data exposed
+- [x] Screenshot 0: Nginx service status (active/running)
+- [x] Screenshot 1: Website files downloaded and extracted
+- [x] Screenshot 2: Footer updated with Full Name, Group, Week, and Date
+- [x] Screenshot 3: Nginx configuration test successful
+- [x] Screenshot 4: Website files deployed to /var/www/html
+- [x] Screenshot 5: Public IP retrieved
+- [x] Screenshot 6: Live website accessible in browser with footer details
+- [x] Screenshot 7: Nginx enabled on boot
+- [x] Screenshot 8: Local HTTP response returns 200 OK
+- [x] LinkedIn post published and URL submitted
+- [x] Full Name visible in all required screenshots
+- [x] No sensitive data exposed
 
 ---
 
