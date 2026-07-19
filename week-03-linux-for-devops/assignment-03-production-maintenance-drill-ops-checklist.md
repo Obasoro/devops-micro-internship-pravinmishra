@@ -195,6 +195,8 @@ Answer the following in your own words:
 
 **1. Which resource looks most critical right now? (CPU/load, memory, or disk) Explain why.**
 
+The CPU usage is at 100% which is critical because it means the server is under heavy load and may not be able to handle additional requests.
+
 
 
 ---
@@ -305,7 +307,7 @@ week-03-linux-for-devops\screenshots\assignment-3-week3\Screenshot 2026-07-17 18
 
 #### Screenshot 2 — Output of `curl -I http://<public-ip>` confirming recovery (200 OK)
 
-
+week-03-linux-for-devops\screenshots\assignment-3-week3\Screenshot 2026-07-17 182148.png
 
 ---
 

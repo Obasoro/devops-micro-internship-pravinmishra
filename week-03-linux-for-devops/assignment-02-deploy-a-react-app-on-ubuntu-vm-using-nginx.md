@@ -63,7 +63,7 @@ Update `App.js` with your full name and the current date.
 
 #### Screenshot 4 — `nano App.js` open showing your full name and date filled in
 
-Ad
+week-03-linux-for-devops\screenshots\assignment-2-week-3\Screenshot-4.png
 
 ---
 
@@ -143,7 +143,7 @@ week-03-linux-for-devops\screenshots\assignment-2-week-3\Screenshot-11.png
 
 Paste your LinkedIn post URL here:
 
-``
+`https://www.linkedin.com/posts/olakunleobasoro_doing-the-basics-might-seem-harder-sometimes-share-7483951156818382848-MvHI/?highlightedUpdateUrn=urn%3Ali%3Aactivity%3A7483951157908799488&highlightedUpdateType=SOCIAL_SHARE&origin=SOCIAL_SHARE&utm_source=share&utm_medium=member_desktop&rcm=ACoAABJp-z8BWxSilwa0aYicOVVzFmjwFjP4oPM`
 
 ---
 
