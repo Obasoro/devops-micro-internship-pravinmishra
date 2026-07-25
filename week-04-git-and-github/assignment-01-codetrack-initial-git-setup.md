@@ -6,7 +6,7 @@ Part of the DevOps Micro Internship (DMI) Cohort 3 with Agentic AI
 
 ## Purpose
 
-In this assignment, you will set up Git correctly on your local machine before starting the CodeTrack project. You will create a local repository and configure your Git identity at both the repository level (local) and the machine level (global). This assignment is local only — you will not push anything to GitHub yet.
+In this assignment, you will set up Git correctly on your local machine before starting the CodeTrack project. You will create a local repository and configure your Git identity at both the reposit[...]
 
 ---
 
@@ -26,7 +26,7 @@ Create a `CodeTrack` project folder and initialize it as a Git repository.
 
 #### Screenshot 2 — Output of `ls -a` showing the `.git` folder
 
-![Screenshot](week-04-git-and-github\screenshots\assignment-1-week-4\Screenshot 2026-07-22 030518.png)
+![Screenshot](../screenshots/assignment-1-week-4/Screenshot%202026-07-22%20030518.png)
 
 ---
 
@@ -48,7 +48,7 @@ Set your Git username and email for the `CodeTrack` repository only, using `git 
 
 #### Screenshot 3 — Output of `git config --local --list` showing your `user.name` and `user.email`
 
- ![Screenshot](week-04-git-and-github\screenshots\assignment-1-week-4\Screenshot 2026-07-22 032116.png)
+ ![Screenshot](../screenshots/assignment-1-week-4/Screenshot%202026-07-22%20032116.png)
 
 ---
 
@@ -62,7 +62,7 @@ Set a global Git username and email for this machine using `git config --global`
 
 #### Screenshot 4 — Output of `git config --global --list` showing your `user.name` and `user.email`
 
-![Screenshot](week-04-git-and-github\screenshots\assignment-1-week-4\Screenshot 2026-07-22 032702.png)
+![Screenshot](../screenshots/assignment-1-week-4/Screenshot%202026-07-22%20032702.png)
 
 ---
 
