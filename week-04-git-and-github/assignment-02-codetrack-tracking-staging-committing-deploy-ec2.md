@@ -114,19 +114,19 @@ Follow the instruction comment inside `index.html` to update the Student Name an
 
 #### Screenshot 10 — Output of `git status` showing `index.html` as modified
 
-![screenshot-10](week-04-git-and-github/screenshots/assignment-2-week-4/Screenshot 2026-07-24 011530.png)
+![screenshot-10](week-04-git-and-github/screenshots/assignment-2-week-4/Screenshot-2026-07-24-011530.png)
 
 ---
 
 #### Screenshot 11 — Output of `git commit`
 
-![screenshot-11](week-04-git-and-github/screenshots/assignment-2-week-4/Screenshot 2026-07-24 011625.png)
+![screenshot-11](week-04-git-and-github/screenshots/assignment-2-week-4/Screenshot-2026-07-24-011625.png)
 
 ---
 
 #### Screenshot 12 — Output of `git log --oneline` showing two commits
 
-![screenshot-12](week-04-git-and-github/screenshots/assignment-2-week-4/Screenshot 2026-07-24 011659.png)
+![screenshot-12](week-04-git-and-github/screenshots/assignment-2-week-4/Screenshot-2026-07-24-011659.png)
 
 ---
 
@@ -140,7 +140,7 @@ Install and start Nginx on your EC2 instance, then copy `index.html` and `style.
 
 #### Screenshot 13 — Output of `systemctl status nginx --no-pager` showing Nginx `active (running)`
 
-![screenshot-13](week-04-git-and-github/screenshots/assignment-2-week-4/Screenshot 2026-07-24 011659.png)
+![screenshot-13](week-04-git-and-github/screenshots/assignment-2-week-4/Screenshot 2026-07-24-011659.png)
 
 ---
 
@@ -152,7 +152,7 @@ Install and start Nginx on your EC2 instance, then copy `index.html` and `style.
 
 #### Screenshot 15 — Browser showing the CodeTrack site loaded at `http://<EC2_PUBLIC_IP>`, with your Full Name and Group Name visible
 
-![screenshot-15](week-04-git-and-github/screenshots/assignment-2-week-4/Screenshot 2026-07-24 022059.png)
+![screenshot-15](week-04-git-and-github/screenshots/assignment-2-week-4/Screenshot-2026-07-24-022059.png)
 
 ---
 
@@ -164,13 +164,13 @@ Install and start Nginx on your EC2 instance, then copy `index.html` and `style.
 
 Paste your LinkedIn post URL here:
 
-`Add your URL here`
+`https://www.linkedin.com/posts/olakunleobasoro_companyai-share-7487641049398493184-4WPc/?utm_source=share&utm_medium=member_desktop&rcm=ACoAABJp-z8BWxSilwa0aYicOVVzFmjwFjP4oPM`
 
 ---
 
 #### Screenshot — LinkedIn post showing the deployed CodeTrack application
 
-![Screenshot](week-04-git-and-github/screenshots/assignment-2-week-4/Screenshot-1.png)
+![alt text](image.png)
 
 ---
 
